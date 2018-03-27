@@ -1,6 +1,3 @@
-# lucene-analyzer-treetagger
-src/test/resources/treetagger-path.local.properties
-
 # Eclipse
 .project
 *.classpath
