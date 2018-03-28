@@ -86,4 +86,4 @@ beginPosition,endPosition,lemma,pageId,pos,sentenceNo,token,tokenNo
 139,143,hold,21146766,VBN,1,held,3
 ...
 ```
-The processing of the English wikipedia (dump from 2018-02-20) with 5.587.573 articles (about 14GB) took 4 hours 32 minutes on a machine with 32 cores and 80 GB main memory. All CPUs were constantly in use during the processing. The final number of tokens is 2.757.360.284 and the total size of the output csv files is 98 GB.
+The processing of the English wikipedia (dump from 2018-02-20) with 5.587.573 articles (about 14GB) took 4 hours 32 minutes on a machine with 32 cores and 80 GB main memory. All CPUs were constantly in use during the processing. The final number of tokens is 2.757.360.284, the average processing speed is 168.956 tokens per second and the total size of the output csv files is 98 GB.
